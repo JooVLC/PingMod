@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pingmodforge",
+  "name": "Ping Mod",
+  "description": "Ping your position in chat with one click.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["JooVLC"],
+  "credits": "The Forge, FML guys, and JooVLC for the code.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
